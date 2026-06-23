@@ -71,19 +71,11 @@ A natural language processing application built with Python and Hugging Face Tra
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/sumitsuthar10" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" />
-</a>
-
-<a href="https://leetcode.com/u/sumitsuthar_10/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-kumar-785392294/" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/sumitsuthar_10/" target="blank"><img src="https://shields.io" alt="LeetCode" /></a>
 </p>
 
 <p align="center">📧 Email: sumitsuthar103@gmail.com</p>
 ---
 
-<p align="center">
-  ⭐ "Code. Create. Innovate." ⭐
-</p>
