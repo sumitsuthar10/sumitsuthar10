@@ -1,59 +1,53 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">Full Stack Web Developer | AI & Computer Science Undergraduate</h3>
+<h3 align="center">AI & Computer Science Undergraduate | Python & DSA Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Enthusiast;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications" />
+  <img src="https://herokuapp.com" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech AI Engineering Undergraduate at Parul University  
-- 💻 Full Stack Web Developer (MERN Stack)  
-- 🤖 Interested in AI-integrated Web Applications  
-- 🌱 Currently learning Advanced Backend & System Design  
-- ⚡ Love building modern UI/UX websites and real-world projects  
+- 🎓 B.Tech Computer Science (AI Specialization) Undergraduate at Parul University  
+- 💻 Focused on backend systems, relational databases, and architecture logic  
+- 🤖 Passionate about building and deploying core Machine Learning models  
+- 🧠 Actively practicing Data Structures & Algorithms (DSA) on LeetCode  
+- ⚡ Love solving complex algorithmic problems and engineering data-driven solutions  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
+### Languages & Querying
+- Python
+- Java
+- SQL (MySQL)
 
-### Backend
-- Node.js
-- Express.js
+### Core Computer Science
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOPs)
+- Database Management Systems (DBMS)
 
-### Database
-- MongoDB
-- MySQL
+### Artificial Intelligence & ML
+- Machine Learning Basics
+- Data Preprocessing (Pandas, NumPy)
+- Intelligent Recommendation Systems
 
-### Tools
-- Git
-- GitHub
+### Tools & Platforms
+- Git & GitHub
 - VS Code
-- Postman
+- Linux Basics
 
 ---
 
 ## 📌 Featured Projects
 
-### ✈️ AI Travel Planning Web Application
-AI-powered travel planner that creates optimized group itineraries based on user interests, budget, and destinations.
+### ✈️ AI-Powered Group Travel Planning System (Backpacker)
+An end-to-end intelligent travel recommendation system built with Python that processes multi-user preferences and utilizes custom conflict-detection algorithms to generate optimal group itineraries.
 
-### 🔖 Bookmark Manager App
-A modern bookmark manager built with Next.js for organizing and managing saved links.
-
-### 💼 Portfolio Website
-Personal portfolio website showcasing projects, skills, and development journey.
+### 📝 Intelligent Text Summarizer and Analysis Tool
+A natural language processing application built with Python and Hugging Face Transformers that generates concise summaries of large articles, featuring an interactive data interface built with Streamlit.
 
 ---
 
@@ -82,11 +76,12 @@ Personal portfolio website showcasing projects, skills, and development journey.
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" />
 </a>
 
-<a href="https://www.linkedin.com/" target="blank">
+<a href="https://leetcode.com/u/sumitsuthar_10/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
 </a>
 </p>
 
+<p align="center">📧 Email: sumitsuthar103@gmail.com</p>
 ---
 
 <p align="center">
